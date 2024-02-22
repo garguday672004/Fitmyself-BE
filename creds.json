@@ -1,0 +1,8 @@
+{"web":{"client_id":"174488148139-0hhk7luuqe2smk9hlh0050tb8rsn6rcb.apps.googleusercontent.com",
+"project_id":"fitmyself",
+"auth_uri":"https://accounts.google.com/o/oauth2/auth",
+"token_uri":"https://oauth2.googleapis.com/token",
+"auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+"client_secret":"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",
+"redirect_uris":["http://localhost:8000/auth/google/callback"],
+"javascript_origins":["http://localhost:8000"]}}
