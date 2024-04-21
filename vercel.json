@@ -1,2 +1,2 @@
 { "version": 2,
- "rewrites": [{ "source": "/(.*)", "destination": "https://fitmyself-be.vercel.app/" }] }
+ "rewrites": [{ "source": "/api/(.*)", "destination": "https://fitmyself-be.vercel.app/" }] }
